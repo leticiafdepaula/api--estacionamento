@@ -1,8 +1,8 @@
-package service;
+package com.park.demo_park_api.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import repositorio.UsuarioRepositorio;
+import com.park.demo_park_api.repositorio.UsuarioRepositorio;
 
 @Service
 @RequiredArgsConstructor
